@@ -1,0 +1,13 @@
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.cell {
+
+}
+
+.center {
+  margin: auto;
+}

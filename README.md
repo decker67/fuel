@@ -12,3 +12,5 @@ test
 B
 
 from local
+from local 2
+

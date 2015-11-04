@@ -1,6 +1,7 @@
 # fuel
 A meteor app to collect ...
-from githup
+from github
+from github 2
 
 
 

@@ -15,4 +15,5 @@ B
 
 from local
 from local 2
+from local 3
 

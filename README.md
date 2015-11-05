@@ -8,7 +8,10 @@ from github 5
 from github 6
 form github 7
 from github 8
+<<<<<<< HEAD
 from github 9
+=======
+>>>>>>> refs/remotes/origin/master
 
 
 
